@@ -8,4 +8,8 @@
 
 3- `profit`
 
-**Mirza Zeyrek**
+**Possible improvements**
+
+-- Using Iterators.
+
+-- Adding docBlocks.
