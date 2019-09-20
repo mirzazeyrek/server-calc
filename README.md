@@ -1,6 +1,6 @@
 # A simple vm server calculator.
 
-##Installation
+## Installation
 
 1- `composer install`
 
